@@ -7,3 +7,5 @@
 <p> speaker_wav ： 声音文件 </p>
 <p> output： 输出文件 </p>
 <p> open_api_key： moonshot 的api_key </p>
+
+<p>第一次使用时会从huggingface下载约2GB的模型</p>
