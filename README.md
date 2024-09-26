@@ -10,4 +10,4 @@
 
 <p class='ps'>第一次使用时会从huggingface下载约2GB的模型</p>
 <p>配置完成后运行Main.py文件即可<p>
-<pre>> Main.py</pre>
+<pre>> python Main.py</pre>
